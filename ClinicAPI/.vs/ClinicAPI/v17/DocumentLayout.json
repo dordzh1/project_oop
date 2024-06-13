@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\repos\\cabinetrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\repos\\cabinetrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\models\\\u0441abinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\\u0441abinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\dbcontext\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\dbcontext\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\repos\\appointmentrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\repos\\appointmentrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\controllers\\cabinetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\controllers\\cabinetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\repos\\doctorrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\repos\\doctorrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\repos\\patientrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\repos\\patientrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\abstract\\icabinetrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\abstract\\icabinetrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\abstract\\idoctorrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\abstract\\idoctorrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Migrations\\20240606172938_firstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicAPI\\Migrations\\20240606172938_firstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|c:\\users\\admin\\desktop\\\u0434\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\clinicapi1\\clinicapi\\migrations\\20240606174509_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB18F8-941B-41DF-B322-4744D8E094CA}|ClinicAPI\\ClinicAPI.csproj|solutionrelative:clinicapi\\migrations\\20240606174509_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CabinetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Controllers\\CabinetsController.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Controllers\\CabinetsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Controllers\\CabinetsController.cs",
+              "RelativeToolTip": "ClinicAPI\\Controllers\\CabinetsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:54:50.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Repos\\DoctorRepos.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Repos\\DoctorRepos.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Repos\\DoctorRepos.cs",
+              "RelativeToolTip": "ClinicAPI\\Repos\\DoctorRepos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:52:45.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICabinetRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Abstract\\ICabinetRepos.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Abstract\\ICabinetRepos.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Abstract\\ICabinetRepos.cs",
+              "RelativeToolTip": "ClinicAPI\\Abstract\\ICabinetRepos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:52:01.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "ClinicAPI\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:53:07.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Models\\Doctor.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:41:17.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CabinetRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Repos\\CabinetRepos.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Repos\\CabinetRepos.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Repos\\CabinetRepos.cs",
+              "RelativeToolTip": "ClinicAPI\\Repos\\CabinetRepos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:49:05.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0421abinet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Models\\\u0421abinet.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\\u0421abinet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Models\\\u0421abinet.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\\u0421abinet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:21:23.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Repos\\PatientRepos.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Repos\\PatientRepos.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Repos\\PatientRepos.cs",
+              "RelativeToolTip": "ClinicAPI\\Repos\\PatientRepos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:54:46.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Repos\\AppointmentRepos.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Repos\\AppointmentRepos.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Repos\\AppointmentRepos.cs",
+              "RelativeToolTip": "ClinicAPI\\Repos\\AppointmentRepos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:57:14.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClinicDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\DbContext\\ClinicDbcontext.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\DbContext\\ClinicDbcontext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\DbContext\\ClinicDbcontext.cs",
+              "RelativeToolTip": "ClinicAPI\\DbContext\\ClinicDbcontext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:40:16.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240606174509_firstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Migrations\\20240606174509_firstMigration.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Migrations\\20240606174509_firstMigration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Migrations\\20240606174509_firstMigration.cs",
+              "RelativeToolTip": "ClinicAPI\\Migrations\\20240606174509_firstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:45:09.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "ClinicAPI\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:49:18.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDoctorRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Abstract\\IDoctorRepos.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Abstract\\IDoctorRepos.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Abstract\\IDoctorRepos.cs",
+              "RelativeToolTip": "ClinicAPI\\Abstract\\IDoctorRepos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:54:41.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240606172938_firstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Migrations\\20240606172938_firstMigration.cs",
+              "RelativeDocumentMoniker": "ClinicAPI\\Migrations\\20240606172938_firstMigration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\Migrations\\20240606172938_firstMigration.cs",
+              "RelativeToolTip": "ClinicAPI\\Migrations\\20240606172938_firstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:29:39.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0414\u043E\u043C\u0430\u0448\u043D\u0435\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\ClinicAPI1\\ClinicAPI\\appsettings.json",
+              "RelativeToolTip": "ClinicAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T06:54:27.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

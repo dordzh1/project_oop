@@ -1,0 +1,33 @@
+﻿@model Clinic.Models.Patient
+
+@{
+    ViewData["Title"] = "Cancel Registration";
+}
+
+<h1>Отмена Регистрации</h1>
+
+<h3>Вы уверены, что хотите удалить свой профиль?</h3>
+<div>
+    <h4>Информация о пациенте</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Да, удалить профиль</button> |
+        <a asp-action="Index" class="btn btn-secondary">Отмена</a>
+    </form>
+</div>
